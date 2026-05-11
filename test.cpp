@@ -2,6 +2,6 @@
 
 int main() {
     std::cout << "hellword" << std::endl;
-    return 0;
+    return 1;
 }
 
